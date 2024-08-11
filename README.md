@@ -20,3 +20,8 @@
 <p>#Пример работы для асинхронной версии / An example of how it works for the asynchronous version:</p>
 <p>#указываем имя файла или путь / specify the file name or path<br />filename = 'example.txt'<br />txt_file = AsyncTxtFile(filename)<br /># Создание файла / Creating a file<br />await txt_file.create()<br /># Запись текста в файл / Writing text to a file<br />await txt_file.write('Привет, мир!')<br />await txt_file.write('Это синхронная запись.')<br /># Чтение содержимого файла / Reading the contents of the file<br />await txt_file.read()<br /># Очистка файла / File Cleanup<br />await txt_file.clear()<br /># Запись нового текста / Writing a new text<br />await txt_file.write('Это новый текст.')<br /># Чтение нового содержимого файла / Reading new file contents<br />await txt_file.read()<br /># Замена текста / Text replacement<br />await txt_file.replace('новый', 'замененный')<br /># Чтение измененного содержимого файла / Reading the modified file contents<br />await txt_file.read()<br /># Удаление файла / Deleting a file<br />await txt_file.delete()</p>
 <p>&nbsp;</p>
+<p>Поддержать меня / Donate:&nbsp;</p>
+<p>СберБанк -&nbsp;2202203242397083</p>
+<p>Crypto(USDT TRC20) -&nbsp;TGhcCz61q5rq6n6GwihozMbuvvT1zCYjVD</p>
+<p>&nbsp;</p>
+<p>Telegram: @RuisASK</p>
