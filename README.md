@@ -48,7 +48,9 @@ from rtxt import AsyncTxtFile
 
 If you place the file in a different directory, the import may look different.
 
-Пример работы для синхронной версии/Example of work for the synchronous version:
+----
+
+#Пример работы для синхронной версии/Example of work for the synchronous version:
 
 #указываем имя файла или путь / specify the file name or path
 filename = 'example.txt'
@@ -72,7 +74,7 @@ print(txt_file.read())
 # Удаление файла / Deleting a file
 txt_file.delete()
 
-Пример работы для асинхронной версии / An example of how it works for the asynchronous version:
+#Пример работы для асинхронной версии / An example of how it works for the asynchronous version:
 
 #указываем имя файла или путь / specify the file name or path
 filename = 'example.txt'
