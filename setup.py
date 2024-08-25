@@ -17,7 +17,7 @@ setup(
     ],
     python_requires='>=3.6',  # Минимальная версия Python
     install_requires=[         # Зависимости вашего пакета
-        'asyncio,            # Пример зависимости
+        'asyncio',            # Пример зависимости
         'aiofiles',
     ],
 )
