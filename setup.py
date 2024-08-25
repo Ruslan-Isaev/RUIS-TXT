@@ -4,7 +4,7 @@ setup(
     name='rtxt',  # Название вашего пакета
     version='0.1.0',          # Версия вашего пакета
     author='RUIS',       # Ваше имя
-    author_email='isaev2k7@gmail.com,  # Ваш email
+    author_email='isaev2k7@gmail.com',  # Ваш email
     description='Library for convenient work with text files',  # Краткое описание
     long_description=open('README.md').read(),  # Длинное описание (обычно из README)
     long_description_content_type='text/html',  # Тип содержимого длинного описания
